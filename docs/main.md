@@ -19,7 +19,7 @@ Include citations for all AI-derived content, specifying the model used and prov
 
 0. (Optional) Have one person in your group create a GitHub Organization. Then, they should invite everyone else in the group to have Write privileges. (Do not invite course staff).
 
-1. Have one person in your group create two **private** GitHub repositories: one for you final project, and one for course staff to upload your team's starter code. Next, ensure that everyone in your team has Write access. If the repositoryies were created under a GitHub Organization, and once all team members have joined the Organization, then all team members should have access to both repositories. If the repositories were created under a GitHub user account, then all teams members will need to be invited to each repository seperately.
+1. Have one person in your group create two **private** GitHub repositories: one for you final project, and one for course staff to upload your team's starter code. Next, ensure that everyone in your team has Write access. If the repositories were created under a GitHub Organization, and once all team members have joined the Organization, then all team members should have access to both repositories. If the repositories were created under a GitHub user account, then all teams members will need to be invited to each repository seperately.
 
 2. Then, invite the course staff to both of your GitHub repositories. Course Staff GitHub usernames:
 
@@ -36,7 +36,7 @@ Include citations for all AI-derived content, specifying the model used and prov
 
 ## Starter Repo
 
-You will have to create the following:
+In the final project repository, you will have to create the following:
 
 * A GitHub Workflow to build your final project source files. For now, you may just include a basic "Hello, World" or similar.
 * A GitHub Workflow to verify the format of your final project source files.
